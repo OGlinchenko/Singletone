@@ -1,0 +1,5 @@
+|-- /src
+    |-- singleton.js
+|-- .gitignore
+|-- package.json
+|-- README.md
